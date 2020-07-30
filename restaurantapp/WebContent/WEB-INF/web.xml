@@ -1,0 +1,67 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>Search</servlet-name>
+  	<display-name>Search</display-name>
+  	<description></description>
+  	<servlet-class>Search</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>SearchController</servlet-name>
+  	<display-name>SearchController</display-name>
+  	<description></description>
+  	<servlet-class>restaurantapp.controller.SearchController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>BookingController</servlet-name>
+  	<display-name>BookingController</display-name>
+  	<description></description>
+  	<servlet-class>restaurantapp.controller.BookingController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>LoginAdminController</servlet-name>
+  	<display-name>LoginAdminController</display-name>
+  	<description></description>
+  	<servlet-class>restaurantapp.controller.LoginAdminController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>AdminHomeController</servlet-name>
+  	<display-name>AdminHomeController</display-name>
+  	<description></description>
+  	<servlet-class>restaurantapp.controller.AdminHomeController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ResultController</servlet-name>
+  	<display-name>ResultController</display-name>
+  	<description></description>
+  	<servlet-class>restaurantapp.controller.ResultController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Search</servlet-name>
+  	<url-pattern>/Search</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>SearchController</servlet-name>
+  	<url-pattern>/SearchController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>BookingController</servlet-name>
+  	<url-pattern>/BookingController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>LoginAdminController</servlet-name>
+  	<url-pattern>/LoginAdminController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>AdminHomeController</servlet-name>
+  	<url-pattern>/AdminHomeController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ResultController</servlet-name>
+  	<url-pattern>/ResultController</url-pattern>
+  </servlet-mapping>
+</web-app>
