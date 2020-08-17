@@ -1,0 +1,20 @@
+﻿Open	middle
+Message	<br>祝福合成の説明をするよ	middle
+Message	祝福合成はオトギの体力・攻撃・回復を<br>それぞれ個別に強化できるんだ<br>祝福をするには祝福素材が必要だよ	middle
+Message	実際に祝福をしてみようか！<br>今回は私から特別に<br>オトギを1体プレゼントしたから<br>そのオトギを使って祝福してみよう	middle
+Message	<br>まずは祝福元となる<br>オトギを選択してね	middle
+Action	MiddleCenter	-240	240	100	100
+Message	<br>祝福元となるオトギがセットされたね<br>次は祝福による効果の説明だよ	middle
+Allow	MiddleCenter	0	-215
+Message	今は体力の祝福になっているね<br>祝福上昇値は祝福回数が多いほど増える<br>から、たくさん祝福するといいよ！	upper
+Message	そうだ、祝福の回数には上限があるんだ<br>オトギのレア度によって上限回数は<br>変わるんだよ	upper
+Allow	MiddleCenter	-200	0
+Message	祝福に必要な素材はここに表示されるよ！<br>必要な素材は祝福回数で変わるから<br>注意してね！	upper
+Message	<br>別の祝福に変えるには矢印を押してね！<br>実際に押してみようか	upper
+Action	MiddleCenter	-250	25	210	210	-300	0	100	210
+Message	<br>回復の祝福にかわったね<br>もう一度矢印を押して切り替えてみよう	upper
+Action	MiddleCenter	-300	25	100	210	-300	0	100	210
+Message	今度は攻撃の祝福にかわったね<br>ちなみにフリック操作でも切り替えが<br>できるから後で試してみてね	upper
+Message	では、実際に祝福してみようか<br>今回は特別に無料で祝福ができるよ<br>祝福するボタンを押してみよう！	upper
+Action	MiddleCenter	0	-370	255	55
+Close

@@ -1,0 +1,27 @@
+﻿Open	middle
+Message	<br>アビリティ継承の説明をするよ	middle
+Message	アビリティ継承はオトギについている<br>アビリティを付け替えて強くできるんだ	middle
+Allow	UpperCenter	-186	-262
+Message	アビリティ継承されているオトギは<br>アイコンの右上に継承されている<br>アビリティの数だけ<br>数字のマークが表示されるよ！	middle
+Allow	UpperCenter	-586	-262
+Message	実際に継承をしてみようか！<br>今回は私から特別に<br>オトギを２体プレゼントしたから<br>そのオトギを使って継承してみよう	middle
+Message	<br>まずは継承元となる<br>オトギを選択してみて	middle
+Action	MiddleCenter	-240	240	100	100
+Message	継承元となるオトギがセットされたね<br>次は素材となるオトギを<br>選択してみよう	middle
+Action	MiddleCenter	207	198	100	100
+Message	今回は素材となるオトギを用意<br>したから選択してみて	middle
+Action	MiddleCenter	-120	240	100	100
+Message	継承の準備ができたね<br>次はアビリティの入れ替えをしてみよう	upper
+Message	左側にある緑色の枠内が<br>継承されるアビリティなんだ<br>アビリティは指でつかんで<br>自由に入れ替えることができるよ	upper
+Message	継承したいアビリティ「攻撃UP」を<br>指でつかんで入れ替えたいアビリティ<br>「10消し回復」の上で離してみよう	upper
+Action	MiddleCenter	0	-100	570	370	100	0	100	0	-200	0
+Message	<br>無事入れ替えられたね	upper
+Message	素材オトギの固有アビリティは<br>入れ替えできるけど<br>合成元オトギの固有アビリティは<br>入れ替えられないから注意してね	upper
+Allow	MiddleCenter	100	-298
+Message	必要なカネーはここで確認できるよ<br>今回は特別に無料だから<br>さっそく継承してみよう！	upper
+Message	<br>確認するボタンを押してね！	upper
+Action	MiddleCenter	0	-370	255	55
+Message	最終確認だよ<br>素材になるオトギと、<br>継承しなかったアビリティは<br>無くなっちゃうから注意してね	upper
+Message	<br>さぁ継承するよ！	upper
+Action	MiddleCenter	-120	-200	195	55
+Close

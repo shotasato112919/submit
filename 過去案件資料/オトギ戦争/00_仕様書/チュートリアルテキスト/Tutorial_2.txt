@@ -1,0 +1,10 @@
+﻿Open upper
+Message バトルを助けてくれたオトギが<br>表示されるんだ upper
+Message まだフレンドじゃない場合は<br>ボタンが表示されるから、<br>フレンド申請を出してみるといいよ upper
+Message フレンドになると<br>いいことが色々あるからね！ upper
+Action MiddleCenter -120 -330 186 46
+Message とりあえず、私が<br>助けられるのはここまでよ<br>でも安心して！ upper
+Message 迷った時のために、<br>ヘルプやTIPSを準備してるわ<br>うまく活用してね upper
+Message 最後まで私の話を聞いてくれてありがとう！<br>感謝の気持ちを込めて<br>初心者応援ガチャを用意したんだ　upper
+Message 仲間になってくれるオトギを<br>探しにいってね　upper
+Close
