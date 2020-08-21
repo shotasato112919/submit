@@ -1,9 +1,0 @@
-﻿Open	middle
-Allow	MiddleCenter	-140	-385
-Message	継承完了！<br>アビリティが入れ替わったね	middle
-Message	アビリティをセット可能な数<br>「アビリティ枠」はオトギのレア度に<br>よって決められているんだ	middle
-Message	オトギが一定のレベルに達すると<br>新たなアビリティ枠が解放されて<br>セットできる数が増えるんだよ！	middle
-Message	そのためには強化合成による<br>レベル上げも忘れないようにね！	middle
-Message	<br>これでアビリティ継承の<br>説明はおしまい！	middle
-Message	アビリティを持つオトギは<br>限定クエストなどで手に入るよ<br>挑戦してみてね！	middle
-Close

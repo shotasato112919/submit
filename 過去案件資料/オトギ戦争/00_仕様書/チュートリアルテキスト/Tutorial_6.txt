@@ -1,7 +1,0 @@
-﻿Open	middle
-Allow	MiddleCenter	-20	220
-Message	<br>祝福されたね！<br>この緑の葉っぱが祝福された証だよ！	middle
-Message	もう一度説明するけど<br>祝福の回数には上限があるんだ<br>オトギのレア度によって上限回数は<br>変わるんだよ	middle
-Message	これで祝福合成の説明はおしまい！<br>祝福素材は祝福素材ガチャをはじめ<br>曜日クエストなどでもらえるよ	middle
-Message	<br>たくさん集めて、どんどん祝福しよう！	middle
-Close
